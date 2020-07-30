@@ -2,7 +2,7 @@
 
 
 <p> 
-  <img src="/secondCroped.png" height="400" width="700" />
+  <img src="/ss/secondCroped.png" height="400" width="700" />
 </p>
 
 
