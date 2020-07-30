@@ -1,7 +1,7 @@
 # first_app
 
 <p> 
-  <img src="/ss/firstCroped.png" height="400" width="700" />
+  <img src="/ss/firstCroped.png" height="500" width="400" />
 </p>
 
 A few resources to get you started if this is your first Flutter project:
