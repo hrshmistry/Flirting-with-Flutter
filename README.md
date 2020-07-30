@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<p float="center"> 
+  <img src="/firstCroped.png" height="412" width="220" />
+</p>
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
