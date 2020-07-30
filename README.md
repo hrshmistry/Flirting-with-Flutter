@@ -3,7 +3,7 @@
 A new Flutter project.
 
 <p float="center"> 
-  <img src="/firstCroped.png" height="1920" width="1080" />
+  <img src="/firstCroped.png" height="500" width="700" />
 </p>
 
 A few resources to get you started if this is your first Flutter project:
