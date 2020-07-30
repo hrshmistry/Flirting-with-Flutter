@@ -1,5 +1,9 @@
 # first_app
 
+<p> 
+  <img src="/ss/firstCroped.png" height="400" width="700" />
+</p>
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
