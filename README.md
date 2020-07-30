@@ -1,8 +1,6 @@
 # first_app
 
-A new Flutter project.
-
-<p float="center"> 
+<p> 
   <img src="/firstCroped.png" height="400" width="700" />
 </p>
 
