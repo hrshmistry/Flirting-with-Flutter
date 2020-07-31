@@ -1,7 +1,7 @@
 # layout_app
 
 <p> 
-  <img src="/ss/layoutCroped.png" height="500" width="320" />
+  <img src="/ss/layout.png" height="500" width="320" />
 </p>
 
 A few resources to get you started:
