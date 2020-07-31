@@ -1,7 +1,7 @@
 # first_app
 
 <p> 
-  <img src="/ss/firstCroped.png" height="500" width="300" />
+  <img src="/ss/first.png" height="500" width="300" />
 </p>
 
 A few resources to get you started:
