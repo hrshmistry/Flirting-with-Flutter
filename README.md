@@ -1,7 +1,8 @@
 # layout_app
 
-<p> 
-  <img src="/ss/layout.png" height="500" width="320" />
+<p float = "center"> 
+  <img src="/ss/Google Pixel Quite Black.png" height="600" width="300"  />
+  <img src="/ss/iPhone 7 Plus Gold.png" height="600" width="300" />
 </p>
 
 A few resources to get you started:
