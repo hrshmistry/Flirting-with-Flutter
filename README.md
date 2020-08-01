@@ -1,7 +1,8 @@
 # first_app
 
-<p> 
-  <img src="/ss/first.png" height="500" width="300" />
+<p float = "center"> 
+  <img src="/ss/Google Pixel Quite Black.png" height="600" width="300"  />
+  <img src="/ss/iPhone 7 Plus.png" height="600" width="300" />
 </p>
 
 A few resources to get you started:
